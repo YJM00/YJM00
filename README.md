@@ -2,15 +2,14 @@
 
 ### **LiDAR SLAM 도서관리 미니카**
 - **SLAM(Localization + Mapping)** 기반의 도서관 자율주행 미니카  
-- **Raspberry Pi 5 + LiDAR + STM32** 조합으로 실내 책장 탐색 및 도서 관리  
+- **Raspberry Pi 5 + LiDAR + ROS2** 조합으로 실내 책장 탐색 및 도서 관리  
 - [🔗 GitHub Repo](https://github.com/YJM00/capston_project)
 
 ---
 
 ### **AI Smart Gym (스마트 피트니스 분석 시스템)**
 - **Dual Arduino Nano 33 IoT + Raspberry Pi 5 + Hailo-8** 기반 실시간 운동 분석 시스템  
-- BLE를 통해 양쪽 근전도·IMU 데이터를 수집하고, PyTorch 기반 AI 모델로 **피로도(FI)** 및 **불균형(BI)** 추정  
-- **PySide6 Dashboard**로 실시간 시각화 구현  
+- BLE를 통해 양쪽 근전도·IMU 데이터를 수집하고, PyTorch 기반 AI 모델로 **피로도(FI)** 및 **불균형(BI)** 추정    
 - [🔗 GitHub Repo](https://github.com/youjongmin/smart-gym)
 
 ---
@@ -23,8 +22,7 @@
 ---
 
 ### **스마트팜**
-- **Intel Edge AI / Raspberry Pi / NodeMCU 기반**  
-- 온습도·조도·토양 수분을 AI 모델로 분석하여 최적 작물 환경 유지  
+- **STM32 마이크로 컨트롤러 기반**  
 - [🔗 GitHub Repo](https://github.com/YJM00/Intel-Smart_Farmt)
 
 ---
