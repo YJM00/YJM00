@@ -14,7 +14,7 @@
 
 ---
 
-### **스마트 도서 반납 시스템**
+### ** 도서 반납 시스템**
 - **STM32 + Arduino + ESP-01 + Raspberry Pi**  
 - RFID 인증 → 바코드 도서 스캔 → Flask 서버 및 DB 로그 업데이트  
 - [🔗 GitHub Repo](https://github.com/youjongmin/smart-library)
