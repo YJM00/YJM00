@@ -10,7 +10,7 @@
 ### **AI Smart Gym (스마트 피트니스 분석 시스템)**
 - **Dual Arduino Nano 33 IoT + Raspberry Pi 5 + Hailo-8** 기반 실시간 운동 분석 시스템  
 - BLE를 통해 양쪽 근전도·IMU 데이터를 수집하고, PyTorch 기반 AI 모델로 **피로도(FI)** 및 **불균형(BI)** 추정    
-- [🔗 GitHub Repo](https://github.com/youjongmin/smart-gym)
+- [🔗 GitHub Repo](https://github.com/YJM00/Intel-smart_gym_project)
 
 ---
 
