@@ -23,7 +23,7 @@
 
 ### **스마트팜**
 - **STM32 마이크로 컨트롤러 기반**  
-- [🔗 GitHub Repo](https://github.com/YJM00/Intel-Smart_Farmt)
+- [🔗 GitHub Repo](https://github.com/YJM00/Intel-Smart_Farm)
 
 ---
 
