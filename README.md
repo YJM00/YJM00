@@ -68,7 +68,6 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
   <img src="https://img.shields.io/badge/Vivado-FF6F00?style=for-the-badge&logo=xilinx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vitis-0095D5?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/KiCad PCB-314CB6?style=for-the-badge&logo=kicad&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Verilog HDL-000000?style=for-the-badge"/>
 </p>
 
 
