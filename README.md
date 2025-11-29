@@ -158,7 +158,7 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
 
   <!-- ATmega Smart Bin -->
   <tr>
-    <td><a href="https://github.com/YJM00/microprocesser-"><b>ATmega 스마트 쓰레기통</b></a></td>
+    <td><a href="https://github.com/YJM00/microprocesser-"><b> 스마트 쓰레기통</b></a></td>
     <td>🧑‍🤝‍🧑 <b>Team Project</b><br><br>
 • ATmega128 + 초음파 센서 기반 자동 개폐 스마트 쓰레기통<br>
 • 쓰레기 양 측정 및 모터 제어
