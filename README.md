@@ -69,66 +69,129 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
   <img src="https://img.shields.io/badge/Verilog HDL-000000?style=for-the-badge"/>
 </p>
 
-### 🔧 Tools & Communication
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CAN Bus-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BLE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UART-555555?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/I2C-094D8D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SPI-6E4C1E?style=for-the-badge"/>
-</p>
 
 ---
 
 ## 🚀 주요 프로젝트
 
-### **LiDAR SLAM 도서관리 미니카**
-- **SLAM(Localization + Mapping)** 기반 도서관 자율주행 미니카  
-- **Raspberry Pi 5 + LiDAR + ROS2**로 실내 책장 위치 탐색 및 도서 관리  
-- [🔗 GitHub Repo](https://github.com/YJM00/capston_project)
+<table>
+  <tr>
+    <th align="left" width="30%">Project & Link</th>
+    <th align="left" width="50%">Role & Description</th>
+    <th align="left" width="20%">Tech Stack</th>
+  </tr>
 
----
+  <!-- LiDAR SLAM -->
+  <tr>
+    <td><a href="https://github.com/YJM00/capston_project"><b>LiDAR SLAM 도서관리 미니카</b></a></td>
+    <td>
+      👑 <b>Team Leader</b><br>
+      • Raspberry Pi 5 + LiDAR SLAM 기반 도서관 자율주행 미니카<br>
+      • ROS2 기반 실내 지도 생성 및 책장 탐색 시스템 구축
+    </td>
+    <td>
+      •ROS2<br>
+      •LiDAR<br>
+      •SLAM<br>
+      •Raspberry Pi 5
+    </td>
+  </tr>
 
-### **AI Smart Gym (스마트 피트니스 분석 시스템)**
-- **Dual Arduino Nano 33 IoT + Raspberry Pi 5 + Hailo-8** 기반 실시간 운동 분석 시스템  
-- EMG·IMU 데이터 BLE 수집 → PyTorch 모델로 **피로도(FI)** · **균형도(BI)** 추정  
-- [🔗 GitHub Repo](https://github.com/YJM00/Intel-smart_gym_project)
+  <!-- AI Smart Gym -->
+  <tr>
+    <td><a href="https://github.com/YJM00/Intel-smart_gym_project"><b>AI Smart Gym</b></a></td>
+    <td>
+      🤝 Team Member</b><br>
+      • EMG·IMU 센서 BLE 수집 + Hailo-8 추론 가속<br>
+      • PyTorch 기반 피로도(FI)/균형도(BI) 측정 AI 모델 개발
+    </td>
+    <td>
+     • Arduino Nano 33<br>
+     • BLE<br>
+     • PyTorch<br>
+     • Hailo-8<br>
+     • Raspberry Pi 5
+    </td>
+  </tr>
 
----
+  <!-- 도서 반납 시스템 -->
+  <tr>
+    <td><a href="https://github.com/YJM00/Intel-Library_Management_System"><b>도서 반납 시스템</b></a></td>
+    <td>
+      🧑‍🤝‍🧑 Team Project</b><br>
+      • RFID 인증 → 바코드 스캔 → Flask 서버 DB 저장<br>
+      • 임베디드 + 서버 통합 반납 자동화 시스템
+    </td>
+    <td>
+     • STM32<br>
+     • ESP-01<br>
+     • Flask<br>
+     • PostgreSQL
+    </td>
+  </tr>
 
-### **도서 반납 시스템**
-- **STM32 + Arduino + ESP-01 + Raspberry Pi** 기반 스마트 도서 반납 시스템  
-- RFID 인증 → 도서 바코드 스캔 → Flask 서버 및 DB 기록  
-- [🔗 GitHub Repo](https://github.com/YJM00/Intel-Library_Management_System)
+  <!-- 스마트팜 -->
+  <tr>
+    <td><a href="https://github.com/YJM00/Intel-Smart_Farm"><b>스마트팜</b></a></td>
+    <td>
+       🧑‍🤝‍🧑 Team Project</b><br>
+      • STM32 기반 환경 센서 제어 및 자동화 시스템 구축
+    </td>
+    <td>
+     • STM32<br>
+     • Embedded C<br>
+     • Sensor Control
+    </td>
+  </tr>
 
----
+  <!-- PCB Artwork -->
+  <tr>
+    <td><a href="https://github.com/YJM00/PCB-Artwork-project"><b>PCB Artwork</b></a></td>
+    <td>
+      👤 <b>Solo Project</b><br>
+      • KiCad로 회로 설계 및 PCB Artwork 제작 (2D/3D)
+    </td>
+    <td>
+     • KiCad<br>
+     • PCB Layout<br>
+     • Circuit Design
+    </td>
+  </tr>
 
-### **스마트팜**
-- **STM32 MCU 기반 실시간 환경 감지/제어 시스템**  
-- [🔗 GitHub Repo](https://github.com/YJM00/Intel-Smart_Farm)
+  <!-- ATmega Smart Bin -->
+  <tr>
+    <td><a href="https://github.com/YJM00/microprocesser-"><b>ATmega 스마트 쓰레기통</b></a></td>
+    <td>
+       🧑‍🤝‍🧑 Team Project</b><br>
+      • ATmega128 + 초음파 센서 기반 자동 개폐 스마트 쓰레기통<br>
+      • 쓰레기 양 측정 및 모터 제어
+    </td>
+    <td>
+     • ATmega128<br>
+     • Ultrasonic Sensor<br>
+     • MCU Control
+    </td>
+  </tr>
 
----
+  <!-- FPGA ZYNQ -->
+  <tr>
+    <td><a href="https://github.com/YJM00/FPGA-Digital-circuit-Design"><b>FPGA ZYNQ 설계</b></a></td>
+    <td>
+      👤 <b>Solo Project</b><br>
+      • ZYNQ 기반 디지털 회로 및 병렬 처리 구조 구현<br>
+      • Verilog HDL 기반 논리회로·주변장치 제어 설계
+    </td>
+    <td>
+     • ZYNQ<br>
+     • Verilog HDL<br>
+     • Vivado / Vitis
+    </td>
+  </tr>
 
-### **PCB Artwork**
-- KiCad 기반 회로 설계 및 2D/3D PCB Artwork 제작  
-- [🔗 GitHub Repo](https://github.com/YJM00/PCB-Artwork-project)
+</table>
 
----
 
-### **마이크로프로세서 스마트 쓰레기통 (ATmega)**
-- **ATmega MCU + 초음파 센서** 기반 자동 개폐형 스마트 쓰레기통  
-- 쓰레기 양 감지 및 뚜껑 제어 로직 구현  
-- [🔗 GitHub Repo](https://github.com/YJM00/microprocesser-)
 
----
-
-### **FPGA ZYNQ 설계**
-- **Xilinx ZYNQ FPGA**를 활용한 디지털 회로 및 병렬 처리 구조 구현  
-- Verilog 기반 주변장치 제어 및 논리 설계  
-- [🔗 GitHub Repo](https://github.com/YJM00/FPGA-Digital-circuit-Design)
-
----
 
 ## 📊 GitHub Stats
 <div align="center">
