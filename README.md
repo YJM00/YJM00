@@ -86,6 +86,8 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
     <td><a href="https://github.com/YJM00/capston_project"><b>LiDAR SLAM 도서관리 미니카</b></a></td>
     <td>
       👑 <b>Team Leader</b><br>
+      > __🏅 캡스톤 디자인 프로젝트 경진대회 – 은상__
+      >__🏅 HSP 학생성공프로젝트 – 우수상__
       • Raspberry Pi 5 + LiDAR SLAM 기반 도서관 자율주행 미니카<br>
       • ROS2 기반 실내 지도 생성 및 책장 탐색 시스템 구축
     </td>
@@ -102,6 +104,8 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
     <td><a href="https://github.com/YJM00/Intel-smart_gym_project"><b>AI Smart Gym</b></a></td>
     <td>
       🤝 Team Member</b><br>
+      > __🏅 – 우수상__
+
       • EMG·IMU 센서 BLE 수집 + Hailo-8 추론 가속<br>
       • PyTorch 기반 피로도(FI)/균형도(BI) 측정 AI 모델 개발
     </td>
