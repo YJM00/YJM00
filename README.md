@@ -92,10 +92,10 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
 • ROS2 기반 지도 생성 및 책장 탐색 알고리즘 구현
     </td>
     <td>
-ROS2<br>
-LiDAR<br>
-SLAM<br>
-Raspberry Pi 5
+•ROS2<br>
+•LiDAR<br>
+•SLAM<br>
+•Raspberry Pi 5
     </td>
   </tr>
 
@@ -108,11 +108,11 @@ Raspberry Pi 5
 • PyTorch 기반 피로도(FI)/균형도(BI) 분석 모델 개발
     </td>
     <td>
-Arduino Nano 33<br>
-BLE<br>
-PyTorch<br>
-Hailo-8<br>
-Raspberry Pi 5
+•Arduino Nano 33<br>
+•BLE<br>
+•PyTorch<br>
+•Hailo-8<br>
+•Raspberry Pi 5
     </td>
   </tr>
 
@@ -124,10 +124,10 @@ Raspberry Pi 5
 • 임베디드 + DB 기반 자동화 반납 시스템
     </td>
     <td>
-STM32<br>
-ESP-01<br>
-Flask<br>
-PostgreSQL
+•STM32<br>
+•ESP-01<br>
+•Flask<br>
+•PostgreSQL
     </td>
   </tr>
 
@@ -138,9 +138,9 @@ PostgreSQL
 • STM32 기반 환경 센서 제어 및 자동화 시스템 구축
     </td>
     <td>
-STM32<br>
-Embedded C<br>
-Sensor Control
+•STM32<br>
+•Embedded C<br>
+•Sensor Control
     </td>
   </tr>
 
@@ -151,9 +151,9 @@ Sensor Control
 • KiCad 기반 회로 설계 및 PCB Artwork 제작
     </td>
     <td>
-KiCad<br>
-PCB Layout<br>
-Circuit Design
+•KiCad<br>
+•PCB Layout<br>
+•Circuit Design
     </td>
   </tr>
 
@@ -165,9 +165,9 @@ Circuit Design
 • 쓰레기 양 측정 및 모터 제어
     </td>
     <td>
-ATmega128<br>
-Ultrasonic Sensor<br>
-MCU Control
+•ATmega128<br>
+•Ultrasonic Sensor<br>
+•MCU Control
     </td>
   </tr>
 
@@ -179,9 +179,9 @@ MCU Control
 • Verilog 기반 주변장치 제어 로직 설계
     </td>
     <td>
-ZYNQ<br>
-Verilog HDL<br>
-Vivado / Vitis
+•ZYNQ<br>
+•Verilog HDL<br>
+•Vivado / Vitis
     </td>
   </tr>
 
