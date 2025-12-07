@@ -134,7 +134,7 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
   <tr>
     <td><a href="https://github.com/YJM00/Intel-Smart_Farm"><b>스마트팜</b></a></td>
     <td>🧑‍🤝‍🧑 <b>Team Project</b><br><br>
-• 온습도 센서 및 스텝 모터를 이용해 스마트팜 구현
+• 온습도 센서 및 스텝 모터를 이용해 스마트팜 구현<br>
 • STM32 기반 환경 센서 제어 및 자동화 시스템 구축
     </td>
     <td>
@@ -148,7 +148,7 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
   <tr>
     <td><a href="https://github.com/YJM00/PCB-Artwork-project"><b>PCB Artwork</b></a></td>
     <td>👤 <b>Solo Project</b><br><br>
-• NE555 보드 제작
+• NE555 보드 제작<br>
 • KiCad 기반 회로 설계 및 PCB Artwork 제작
     </td>
     <td>
