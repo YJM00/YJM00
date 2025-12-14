@@ -195,6 +195,6 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
 ---
 
 ## 📬 Contact
-- 📧 Email: **dbwhdals1030@naver.com**  
+- 📧 Email: **jm.you1005@gmail.com**  
 - 🔗 GitHub: https://github.com/YJM00  
-- 🧭 Portfolio(NOTION): https://www.notion.so/165c2d94ef764bc18877b801a251cc28e
+- 🧭 Study Note(NOTION): https://www.notion.so/165c2d94ef764bc18877b801a251cc28
