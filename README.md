@@ -50,6 +50,7 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
   <img src="https://img.shields.io/badge/Firmware-6A5ACD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/BSP(Board Support Package)-1E90FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ARM Cortex-M-0091BD?style=for-the-badge&logo=arm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AVR-Firmware-4b6cb7?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/FreeRTOS-404040?style=for-the-badge&logo=freertos&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
 </p>
