@@ -195,7 +195,7 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
 
 | Repository | Description |
 |-----------|-------------|
-| [Oscilloscope Signal Analysis](https://github.com/YJM00/Oscilloscope-study) | UART, I2C, DHT11, Ultrasonic Sensor 등의 프로토콜을 오실로스코프로 분석 |
+| [Oscilloscope Signal Analysis](https://github.com/YJM00/Oscilloscope-study) | UART, I2C, DHT11, Ultrasonic Sensor 등의 프로토콜 오실로스코프로 분석 |
 
 
 
