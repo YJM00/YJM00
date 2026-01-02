@@ -103,7 +103,7 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
   <tr>
     <td><a href="https://github.com/YJM00/Intel-smart_gym_project"><b>AI Smart Gym</b></a></td>
     <td>🤝 <b>Team Member</b><br><br>
-🏅 <b>우수상</b><br><br>
+🏅 <b>인텔 AI SW 아카데미 프로젝트 우수상</b><br><br>
 • EMG/IMU BLE 수집 + Hailo-8 최적화<br>
 • PyTorch 기반 피로도(FI)/균형도(BI) 분석 모델 개발
     </td>
@@ -113,6 +113,24 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
 •PyTorch<br>
 •Hailo-8<br>
 •Raspberry Pi 5
+    </td>
+  </tr>
+
+  <!-- Linux Device Driver Smart Clock -->
+  <tr>
+    <td><a href="https://github.com/YJM00/Linux-Device-Driver-Project"><b> 디바이스드라이버 기반 스마트 시계</b></a></td>        
+    <td>👤 <b>Solo Project</b><br><br>
+• Raspberry Pi(Linux)에서 <b>Character Device Driver</b>로 하드웨어를 <b>/dev 파일</b>로 제어<br>
+• <b>OLED(SSD1306)</b>에 <b>RTC(DS1302) 날짜/시간</b> + <b>DHT11 온습도</b> 실시간 출력<br>
+• <b>로터리 엔코더</b>로 <b>연/월/일/시/분</b> 설정(상태 전환 로직)<br>
+• User App ↔ Kernel Driver ↔ Hardware 전체 데이터 흐름 설계 및 구현
+    </td>
+    <td>
+•Linux<br>
+•Char Device<br>
+•I2C(SSD1306)<br>
+•RTC(DS1302)<br>
+•DHT11
     </td>
   </tr>
 
