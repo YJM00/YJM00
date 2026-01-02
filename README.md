@@ -123,7 +123,6 @@ LiDAR SLAM 미니카, EMG 기반 스마트 피트니스 분석, 도서 반납 �
 • Raspberry Pi(Linux)에서 <b>Character Device Driver</b>로 하드웨어를 <b>/dev 파일</b>로 제어<br>
 • <b>OLED(SSD1306)</b>에 <b>RTC(DS1302) 날짜/시간</b> + <b>DHT11 온습도</b> 실시간 출력<br>
 • <b>로터리 엔코더</b>로 <b>연/월/일/시/분</b> 설정(상태 전환 로직)<br>
-• User App ↔ Kernel Driver ↔ Hardware 전체 데이터 흐름 설계 및 구현
     </td>
     <td>
 •Linux<br>
