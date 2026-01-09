@@ -99,7 +99,7 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
   <!-- ROS Hospital Autonomous Wheelchair -->
   <tr>
     <td>
-      <a href="https://github.com/YJM00/<YOUR_REPO_LINK>">
+      <a href="https://github.com/YJM00/Project-Hospital-Autonomous-Wheelchair">
         <b>ROS2 기반 병원 자율주행 휠체어</b>
       </a>
     </td>
@@ -115,7 +115,7 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
       •Nav2 / SLAM <br>
       •TurtleBot3<br>
       •STM32U5 + TouchGFX<br>
-      •MariaDB/MySQL<br>
+      •MariaDB/SQL<br>
       •Qt
     </td>
   </tr>
