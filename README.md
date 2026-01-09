@@ -75,29 +75,33 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
 
 <table>
   <tr>
+    <th align="left" width="15%">Date</th>
     <th align="left" width="30%">Project & Link</th>
-    <th align="left" width="50%">Role & Description</th>
-    <th align="left" width="20%">Tech Stack</th>
+    <th align="left" width="40%">Role & Description</th>
+    <th align="left" width="15%">Tech Stack</th>
   </tr>
 
   <!-- LiDAR SLAM -->
   <tr>
+    <td><b>2025.01~2025.06</b></td>
     <td><a href="https://github.com/YJM00/capston_project"><b>LiDAR SLAM 도서관리 미니카</b></a></td>
     <td>👑 <b>Team Leader</b><br><br>
-🏅 <b>캡스톤 디자인 경진대회 – 은상</b><br>
-🏅 <b>HSP 학생성공프로젝트 – 우수상</b><br><br>
-• Raspberry Pi 5 + LiDAR 기반 실내 SLAM 자율주행<br>
-• ROS2 기반 지도 생성 및 책장 탐색 알고리즘 구현
+      🏅 <b>캡스톤 디자인 경진대회 – 은상</b><br>
+      🏅 <b>HSP 학생성공프로젝트 – 우수상</b><br><br>
+      • Raspberry Pi 5 + LiDAR 기반 실내 SLAM 자율주행<br>
+      • ROS2 기반 지도 생성 및 책장 탐색 알고리즘 구현
     </td>
     <td>
-•ROS2<br>
-•LiDAR<br>
-•SLAM<br>
-•Raspberry Pi 5
+      •ROS2<br>
+      •LiDAR<br>
+      •SLAM<br>
+      •Raspberry Pi 5
     </td>
   </tr>
+
   <!-- ROS Hospital Autonomous Wheelchair -->
   <tr>
+    <td><b>2025.12.15 ~ 2026.1.5</b></td>
     <td>
       <a href="https://github.com/YJM00/Project-Hospital-Autonomous-Wheelchair">
         <b>ROS2 기반 병원 자율주행 휠체어</b>
@@ -112,7 +116,7 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
     </td>
     <td>
       •ROS2<br>
-      •Nav2 / SLAM <br>
+      •Nav2 / SLAM<br>
       •TurtleBot3<br>
       •STM32U5 + TouchGFX<br>
       •MariaDB/SQL<br>
@@ -122,106 +126,113 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
 
   <!-- AI Smart Gym -->
   <tr>
+    <td><b>2025.09.20~2025.10.22</b></td>
     <td><a href="https://github.com/YJM00/Intel-smart_gym_project"><b>AI Smart Gym</b></a></td>
     <td>🤝 <b>Team Member</b><br><br>
-🏅 <b>인텔 AI SW 아카데미 프로젝트 우수상</b><br><br>
-• EMG/IMU BLE 수집 + Hailo-8 최적화<br>
-• PyTorch 기반 피로도(FI)/균형도(BI) 분석 모델 개발
+      🏅 <b>인텔 AI SW 아카데미 프로젝트 우수상</b><br><br>
+      • EMG/IMU BLE 수집 + Hailo-8 최적화<br>
+      • PyTorch 기반 피로도(FI)/균형도(BI) 분석 모델 개발
     </td>
     <td>
-•Arduino Nano 33<br>
-•BLE<br>
-•PyTorch<br>
-•Hailo-8<br>
-•Raspberry Pi 5
+      •Arduino Nano 33<br>
+      •BLE<br>
+      •PyTorch<br>
+      •Hailo-8<br>
+      •Raspberry Pi 5
     </td>
   </tr>
 
   <!-- Linux Device Driver Smart Clock -->
   <tr>
-    <td><a href="https://github.com/YJM00/Linux-Device-Driver-Project"><b> 디바이스드라이버 기반 스마트 시계</b></a></td>        
+    <td><b>2025.12.24~2025.12.29</b></td>
+    <td><a href="https://github.com/YJM00/Linux-Device-Driver-Project"><b>디바이스드라이버 기반 스마트 시계</b></a></td>
     <td>👤 <b>Solo Project</b><br><br>
-• Raspberry Pi(Linux)에서 <b>Character Device Driver</b>로 하드웨어를 <b>/dev 파일</b>로 제어<br>
-• <b>OLED(SSD1306)</b>에 <b>RTC(DS1302) 날짜/시간</b> + <b>DHT11 온습도</b> 실시간 출력<br>
-• <b>로터리 엔코더</b>로 <b>연/월/일/시/분</b> 설정(상태 전환 로직)<br>
+      • Raspberry Pi(Linux)에서 <b>Character Device Driver</b>로 하드웨어를 <b>/dev 파일</b>로 제어<br>
+      • <b>OLED(SSD1306)</b>에 <b>RTC(DS1302) 날짜/시간</b> + <b>DHT11 온습도</b> 실시간 출력<br>
+      • <b>로터리 엔코더</b>로 <b>연/월/일/시/분</b> 설정(상태 전환 로직)
     </td>
     <td>
-•Linux<br>
-•Char Device<br>
-•I2C(SSD1306)<br>
-•RTC(DS1302)<br>
-•DHT11
+      •Linux<br>
+      •Char Device<br>
+      •I2C(SSD1306)<br>
+      •RTC(DS1302)<br>
+      •DHT11
     </td>
   </tr>
 
   <!-- 도서 반납 시스템 -->
   <tr>
+    <td><b>2025.08.25.~2025.09.01</b></td>
     <td><a href="https://github.com/YJM00/Intel-Library_Management_System"><b>도서 반납 시스템</b></a></td>
     <td>🧑‍🤝‍🧑 <b>Team Project</b><br><br>
-• RFID 인증 → 바코드 스캔 → Flask 서버 연동<br>
-• 임베디드 + DB 기반 자동화 반납 시스템
+      • RFID 인증 → 바코드 스캔 → Flask 서버 연동<br>
+      • 임베디드 + DB 기반 자동화 반납 시스템
     </td>
     <td>
-•STM32<br>
-•ESP-01<br>
-•Flask<br>
-•PostgreSQL
+      •STM32<br>
+      •ESP-01<br>
+      •Flask<br>
+      •PostgreSQL
     </td>
   </tr>
 
   <!-- 스마트팜 -->
   <tr>
+    <td><b>2025.08.01~2025.08.08</b></td>
     <td><a href="https://github.com/YJM00/Intel-Smart_Farm"><b>스마트팜</b></a></td>
     <td>🧑‍🤝‍🧑 <b>Team Project</b><br><br>
-• 온습도 센서 및 스텝 모터를 이용해 스마트팜 구현<br>
-• STM32 기반 환경 센서 제어 및 자동화 시스템 구축
+      • 온습도 센서 및 스텝 모터를 이용해 스마트팜 구현<br>
+      • STM32 기반 환경 센서 제어 및 자동화 시스템 구축
     </td>
     <td>
-•STM32<br>
-•Embedded C<br>
-•Sensor Control
+      •STM32<br>
+      •Embedded C<br>
+      •Sensor Control
     </td>
   </tr>
 
   <!-- PCB Artwork -->
   <tr>
+    <td><b>2024.12.16 ~ 2024.12.22</b></td>
     <td><a href="https://github.com/YJM00/PCB-Artwork-project"><b>PCB Artwork</b></a></td>
     <td>👤 <b>Solo Project</b><br><br>
-• NE555 보드 제작<br>
-• KiCad 기반 회로 설계 및 PCB Artwork 제작
+      • NE555 보드 제작<br>
+      • KiCad 기반 회로 설계 및 PCB Artwork 제작
     </td>
     <td>
-•KiCad<br>
-•PCB Layout<br>
-•Circuit Design
+      •KiCad<br>
+      •PCB Layout<br>
+      •Circuit Design
     </td>
   </tr>
 
   <!-- ATmega Smart Bin -->
   <tr>
-    <td><a href="https://github.com/YJM00/microprocesser-"><b> 스마트 쓰레기통</b></a></td>
+    <td><b>2024.10.21~2025.12.22</b></td>
+    <td><a href="https://github.com/YJM00/microprocesser-"><b>스마트 쓰레기통</b></a></td>
     <td>🧑‍🤝‍🧑 <b>Team Project</b><br><br>
-• ATmega128 + 초음파 센서 기반 자동 개폐 스마트 쓰레기통<br>
-• 쓰레기 양 측정 및 모터 제어
+      • ATmega128 + 초음파 센서 기반 자동 개폐 스마트 쓰레기통<br>
+      • 쓰레기 양 측정 및 모터 제어
     </td>
     <td>
-•ATmega128<br>
-•Ultrasonic Sensor<br>
-•MCU Control
+      •ATmega128<br>
+      •Ultrasonic Sensor<br>
+      •MCU Control
     </td>
   </tr>
 
   <!-- FPGA ZYNQ -->
   <tr>
+    <td><b>2025.3 ~ 2025.6</b></td>
     <td><a href="https://github.com/YJM00/FPGA-Digital-circuit-Design"><b>FPGA ZYNQ 설계</b></a></td>
     <td>👤 <b>Solo Project</b><br><br>
-• ZYNQ 기반 디지털 회로 및 병렬 처리 구조 구현<br>
-• Verilog 기반 주변장치 제어 로직 설계
+      • ZYNQ 기반 디지털 회로 및 병렬 처리 구조 구현<br>
+      • Verilog 기반 주변장치 제어 로직 설계
     </td>
     <td>
-•ZYNQ<br>
-•Verilog HDL<br>
-•Vivado / Vitis
+      •ZYNQ<br>
+      •Verilog HDL<br>
+      •Vivado / Vitis
     </td>
   </tr>
 
