@@ -81,27 +81,9 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
     <th align="left" width="15%">Tech Stack</th>
   </tr>
 
-  <!-- LiDAR SLAM -->
+  <!-- ROS Hospital Autonomous Wheelchair (Latest) -->
   <tr>
-    <td><b>2025.01~2025.06</b></td>
-    <td><a href="https://github.com/YJM00/capston_project"><b>LiDAR SLAM 도서관리 미니카</b></a></td>
-    <td>👑 <b>Team Leader</b><br><br>
-      🏅 <b>캡스톤 디자인 경진대회 – 은상</b><br>
-      🏅 <b>HSP 학생성공프로젝트 – 우수상</b><br><br>
-      • Raspberry Pi 5 + LiDAR 기반 실내 SLAM 자율주행<br>
-      • ROS2 기반 지도 생성 및 책장 탐색 알고리즘 구현
-    </td>
-    <td>
-      •ROS2<br>
-      •LiDAR<br>
-      •SLAM<br>
-      •Raspberry Pi 5
-    </td>
-  </tr>
-
-  <!-- ROS Hospital Autonomous Wheelchair -->
-  <tr>
-    <td><b>2025.12.15 ~ 2026.1.5</b></td>
+    <td><b>2025.12.15 ~ 2026.01.05</b></td>
     <td>
       <a href="https://github.com/YJM00/Project-Hospital-Autonomous-Wheelchair">
         <b>ROS2 기반 병원 자율주행 휠체어</b>
@@ -124,27 +106,9 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
     </td>
   </tr>
 
-  <!-- AI Smart Gym -->
-  <tr>
-    <td><b>2025.09.20~2025.10.22</b></td>
-    <td><a href="https://github.com/YJM00/Intel-smart_gym_project"><b>AI Smart Gym</b></a></td>
-    <td>🤝 <b>Team Member</b><br><br>
-      🏅 <b>인텔 AI SW 아카데미 프로젝트 우수상</b><br><br>
-      • EMG/IMU BLE 수집 + Hailo-8 최적화<br>
-      • PyTorch 기반 피로도(FI)/균형도(BI) 분석 모델 개발
-    </td>
-    <td>
-      •Arduino Nano 33<br>
-      •BLE<br>
-      •PyTorch<br>
-      •Hailo-8<br>
-      •Raspberry Pi 5
-    </td>
-  </tr>
-
   <!-- Linux Device Driver Smart Clock -->
   <tr>
-    <td><b>2025.12.24~2025.12.29</b></td>
+    <td><b>2025.12.24 ~ 2025.12.29</b></td>
     <td><a href="https://github.com/YJM00/Linux-Device-Driver-Project"><b>디바이스드라이버 기반 스마트 시계</b></a></td>
     <td>👤 <b>Solo Project</b><br><br>
       • Raspberry Pi(Linux)에서 <b>Character Device Driver</b>로 하드웨어를 <b>/dev 파일</b>로 제어<br>
@@ -160,9 +124,27 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
     </td>
   </tr>
 
+  <!-- AI Smart Gym -->
+  <tr>
+    <td><b>2025.09.20 ~ 2025.10.22</b></td>
+    <td><a href="https://github.com/YJM00/Intel-smart_gym_project"><b>AI Smart Gym</b></a></td>
+    <td>🤝 <b>Team Member</b><br><br>
+      🏅 <b>인텔 AI SW 아카데미 프로젝트 우수상</b><br><br>
+      • EMG/IMU BLE 수집 + Hailo-8 최적화<br>
+      • PyTorch 기반 피로도(FI)/균형도(BI) 분석 모델 개발
+    </td>
+    <td>
+      •Arduino Nano 33<br>
+      •BLE<br>
+      •PyTorch<br>
+      •Hailo-8<br>
+      •Raspberry Pi 5
+    </td>
+  </tr>
+
   <!-- 도서 반납 시스템 -->
   <tr>
-    <td><b>2025.08.25.~2025.09.01</b></td>
+    <td><b>2025.08.25 ~ 2025.09.01</b></td>
     <td><a href="https://github.com/YJM00/Intel-Library_Management_System"><b>도서 반납 시스템</b></a></td>
     <td>🧑‍🤝‍🧑 <b>Team Project</b><br><br>
       • RFID 인증 → 바코드 스캔 → Flask 서버 연동<br>
@@ -178,7 +160,7 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
 
   <!-- 스마트팜 -->
   <tr>
-    <td><b>2025.08.01~2025.08.08</b></td>
+    <td><b>2025.08.01 ~ 2025.08.08</b></td>
     <td><a href="https://github.com/YJM00/Intel-Smart_Farm"><b>스마트팜</b></a></td>
     <td>🧑‍🤝‍🧑 <b>Team Project</b><br><br>
       • 온습도 센서 및 스텝 모터를 이용해 스마트팜 구현<br>
@@ -191,7 +173,40 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
     </td>
   </tr>
 
-  <!-- PCB Artwork -->
+  <!-- FPGA ZYNQ -->
+  <tr>
+    <td><b>2025.03 ~ 2025.06</b></td>
+    <td><a href="https://github.com/YJM00/FPGA-Digital-circuit-Design"><b>FPGA ZYNQ 설계</b></a></td>
+    <td>👤 <b>Solo Project</b><br><br>
+      • ZYNQ 기반 디지털 회로 및 병렬 처리 구조 구현<br>
+      • Verilog 기반 주변장치 제어 로직 설계
+    </td>
+    <td>
+      •ZYNQ<br>
+      •Verilog HDL<br>
+      •Vivado / Vitis
+    </td>
+  </tr>
+
+  <!-- LiDAR SLAM -->
+  <tr>
+    <td><b>2025.01 ~ 2025.06</b></td>
+    <td><a href="https://github.com/YJM00/capston_project"><b>LiDAR SLAM 도서관리 미니카</b></a></td>
+    <td>👑 <b>Team Leader</b><br><br>
+      🏅 <b>캡스톤 디자인 경진대회 – 은상</b><br>
+      🏅 <b>HSP 학생성공프로젝트 – 우수상</b><br><br>
+      • Raspberry Pi 5 + LiDAR 기반 실내 SLAM 자율주행<br>
+      • ROS2 기반 지도 생성 및 책장 탐색 알고리즘 구현
+    </td>
+    <td>
+      •ROS2<br>
+      •LiDAR<br>
+      •SLAM<br>
+      •Raspberry Pi 5
+    </td>
+  </tr>
+
+  <!-- PCB Artwork (Oldest in your list) -->
   <tr>
     <td><b>2024.12.16 ~ 2024.12.22</b></td>
     <td><a href="https://github.com/YJM00/PCB-Artwork-project"><b>PCB Artwork</b></a></td>
@@ -206,9 +221,10 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
     </td>
   </tr>
 
-  <!-- ATmega Smart Bin -->
+
+<!-- ATmega Smart Bin -->
   <tr>
-    <td><b>2024.10.21~2025.12.22</b></td>
+    <td><b>2024.10.21 ~ 2025.12.22</b></td>
     <td><a href="https://github.com/YJM00/microprocesser-"><b>스마트 쓰레기통</b></a></td>
     <td>🧑‍🤝‍🧑 <b>Team Project</b><br><br>
       • ATmega128 + 초음파 센서 기반 자동 개폐 스마트 쓰레기통<br>
@@ -220,25 +236,10 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
       •MCU Control
     </td>
   </tr>
-
-  <!-- FPGA ZYNQ -->
-  <tr>
-    <td><b>2025.3 ~ 2025.6</b></td>
-    <td><a href="https://github.com/YJM00/FPGA-Digital-circuit-Design"><b>FPGA ZYNQ 설계</b></a></td>
-    <td>👤 <b>Solo Project</b><br><br>
-      • ZYNQ 기반 디지털 회로 및 병렬 처리 구조 구현<br>
-      • Verilog 기반 주변장치 제어 로직 설계
-    </td>
-    <td>
-      •ZYNQ<br>
-      •Verilog HDL<br>
-      •Vivado / Vitis
-    </td>
-  </tr>
-
-</table>
-
----
+  
+  </table>
+  
+--- 
 
 ## 📘 학습 기록
 
