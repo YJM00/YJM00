@@ -108,7 +108,7 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
     <td>🧑‍🤝‍🧑 <b>Team Project</b><br><br>
       • Raspberry Pi(Linux)에서 <b>Character Device Driver</b>로 하드웨어를 <b>/dev 파일</b>로 제어<br>
       • <b>OLED(SSD1306)</b>에 <b>RTC(DS1302) 날짜/시간</b> + <b>DHT11 온습도</b> 실시간 출력<br>
-      • <b>로터리 엔코더</b>로 <b>연/월/일/시/분</b> 설정(상태 전환 로직)
+      • <b>로터리 엔코더</b>로 <b>연/월/일/시/분</b> 설정
     </td>
     <td>
       •Linux<br>
