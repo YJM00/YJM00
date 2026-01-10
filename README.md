@@ -91,18 +91,15 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
     </td>
     <td>
       🧑‍🤝‍🧑 <b>Team Project</b><br><br>
-      • TurtleBot3 기반 병원 환경 자율주행 휠체어 플랫폼 구현<br>
-      • Qt 터치 키오스크(외래 호출) + 관리자 대시보드 + C TCP 서버 + MariaDB 기반 배차 시스템 구축<br>
-      • STM32U5G9J-DK2(초음파/FSR) 센서 모듈을 UART로 연동하여 탑승 감지 및 저상 장애물 감지 보완<br>
-      • STM32 TouchGFX UI에서 ROS 토픽(배터리 상태, 주행속도, 목적지, 로봇 상태) 출력
+      • 터틀봇3 기반 병원 환경 자율주행 휠체어 플랫폼 구현<br>
+      • Qt 터치 키오스크 기반 배차 시스템 구축<br>
+      • STM32(초음파/FSR) 탑승 감지 및 저상 장애물 감지<br>
     </td>
     <td>
       •ROS2<br>
-      •Nav2 / SLAM<br>
-      •TurtleBot3<br>
       •STM32U5 + TouchGFX<br>
       •MariaDB/SQL<br>
-      •Qt
+    
     </td>
   </tr>
 
