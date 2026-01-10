@@ -90,24 +90,22 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
       </a>
     </td>
     <td>
-      🧑‍🤝‍🧑 <b>Team Project</b><br><br>
+      🤝 <b>Team Member</b><br><br>
       • 터틀봇3 기반 병원 환경 자율주행 휠체어 플랫폼 구현<br>
       • Qt 터치 키오스크 기반 배차 시스템 구축<br>
       • STM32(초음파/FSR) 탑승 감지 및 저상 장애물 감지<br>
-    </td>
     <td>
       •ROS2<br>
       •STM32U5 + TouchGFX<br>
       •MariaDB/SQL<br>
-    
-    </td>
+  
   </tr>
 
   <!-- Linux Device Driver Smart Clock -->
   <tr>
     <td><b>2025.12.24 ~ 2025.12.29</b></td>
     <td><a href="https://github.com/YJM00/Linux-Device-Driver-Project"><b>디바이스드라이버 기반 스마트 시계</b></a></td>
-    <td>👤 <b>Solo Project</b><br><br>
+    <td>🧑‍🤝‍🧑 <b>Team Project</b><br><br>
       • Raspberry Pi(Linux)에서 <b>Character Device Driver</b>로 하드웨어를 <b>/dev 파일</b>로 제어<br>
       • <b>OLED(SSD1306)</b>에 <b>RTC(DS1302) 날짜/시간</b> + <b>DHT11 온습도</b> 실시간 출력<br>
       • <b>로터리 엔코더</b>로 <b>연/월/일/시/분</b> 설정(상태 전환 로직)
