@@ -186,7 +186,7 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
   <!-- LiDAR SLAM -->
   <tr>
     <td><b>2025.01 ~ 2025.06</b></td>
-    <td><a href="https://github.com/YJM00/capston_project"><b>LiDAR SLAM 도서관리 미니카</b></a></td>
+    <td><a href="https://github.com/YJM00/capston_project"><b>스마트 도서관리 시스템</b></a></td>
     <td>👑 <b>Team Leader</b><br><br>
       🏅 <b>캡스톤 디자인 경진대회 – 은상</b><br>
       🏅 <b>HSP 학생성공프로젝트 – 우수상</b><br><br>
