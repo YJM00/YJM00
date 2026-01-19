@@ -74,13 +74,34 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
 ## 🚀 주요 프로젝트
 
 <table>
+  
   <tr>
     <th align="left" width="15%">Date</th>
     <th align="left" width="30%">Project & Link</th>
     <th align="left" width="40%">Role & Description</th>
     <th align="left" width="15%">Tech Stack</th>
   </tr>
-
+    <tr>
+    <td><b>2026.01.05 ~ 2026.01.19</b></td>
+    <td>
+      <a href="https://github.com/YJM00/REPO_NAME_HERE">
+        <b>RTOS 기반  디지털 신디사이저</b>
+      </a>
+    </td>
+    <td>
+      🤝 <b>Team Member</b><br><br>
+      • STM32 BlackPill에서 <b>44.1kHz 실시간 오디오</b> 생성<br>
+      • <b>4×4 키패드</b>로 노트/파형/옥타브 제어, <b>로터리 2개</b>로 파라미터/볼륨 조절<br>
+      • <b>TFT-LCD(SPI)</b>로 ADSR/파형/UI 시각화
+    </td>
+    <td>
+      •STM32F411<br>
+      •FreeRTOS<br>
+      •I2S + DMA<br>
+      •IIR Biquad LPF<br>
+      •SPI(ILI9341)
+    </td>
+  </tr>
   <!-- ROS Hospital Autonomous Wheelchair (Latest) -->
   <tr>
     <td><b>2025.12.15 ~ 2026.01.05</b></td>
