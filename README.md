@@ -99,7 +99,7 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
       •FreeRTOS<br>
       •I2S + DMA<br>
       •IIR Biquad LPF<br>
-      •SPI(ILI9341)
+      •SPI
     </td>
   </tr>
   <!-- ROS Hospital Autonomous Wheelchair (Latest) -->
