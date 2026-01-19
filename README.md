@@ -84,7 +84,7 @@ H/W를 원리를 이해하고 S/W 로직을 구현하여 장치를 구동하는�
     <tr>
     <td><b>2026.01.05 ~ 2026.01.19</b></td>
     <td>
-      <a href="https://github.com/YJM00/REPO_NAME_HERE">
+      <a href="https://github.com/YJM00/SYNTH_RTOS_BLACKPILL">
         <b>RTOS 기반  디지털 신디사이저</b>
       </a>
     </td>
